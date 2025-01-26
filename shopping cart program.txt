@@ -1,0 +1,33 @@
+Shopping Cart Program:
+
+1)Adding Items:
+-users can add items by entering the name and price
+-the items will be saved on the cart
+
+
+
+
+
+2. Viewing the Cart:
+
+-Users can view all the items in the cart, including the name and price of each item.
+-The total cost of all items will also be displayed.
+
+
+
+3. Remove Items:
+
+-Users can remove a specific item from the cart based on its index.
+
+4. Save and Load Cart:
+
+-The cart will automatically load any previously saved data when the program starts.
+-Users can save the cart to a text file before exiting.
+
+5. OOP Structure:
+
+
+-It consists of two main classes:
+
+-Item class: Represents individual items with a name and price.
+-ShoppingCart class: Manages the cart's operations (like adding, removing items, calculating total cost).
